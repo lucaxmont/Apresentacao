@@ -1,4 +1,4 @@
-# Criar repositório
+# Repositório
 
 ## Trabalhos de Informática
 
